@@ -1,0 +1,8 @@
+pandas
+selenium
+numpy
+matplotlib
+telebot
+mysql-connector-python
+
+
