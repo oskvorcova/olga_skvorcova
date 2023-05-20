@@ -4,5 +4,10 @@ numpy
 matplotlib
 telebot
 mysql-connector-python
+pytrends
+plotly
+jupyter
+streamlit
+geopandas
 
 
