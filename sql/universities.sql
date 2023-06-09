@@ -4,7 +4,8 @@ INTO
         (name_en,
         name_ru,
         country,
-        date_st)
+        date_st,
+        date_end)
 VALUES
     ("Harvard university","Гарвардский университет", 'USA', "2022-09-01", "2023-01-01"),
     ("Bocconi university","Университет Боккони", 'Italy', "2023-02-01", "2023-04-19"),
