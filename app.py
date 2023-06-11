@@ -70,7 +70,7 @@ ax1.set_title(f'Interest over time for "{keyword}" ({timeframe}) ({country})')
 st.pyplot(fig1)
 
 
-# Пришлось закомментировать тк яндекс стал банить при использовании селениума и невозможно ничего сделать оставаясь только на капче
+# Пришлось закомментировать, так как Яндекс стал банить при использовании Селениума, и невозможно ничего сделать, оставаясь только на капче
 # selenium_scrapper(selenium_executor, keyword, yandex_login, yandex_password, yandex_data)
 # data = pandas.read_csv(f'yandex_data/{keyword}.csv')
 # fig3, ax3 = plt.subplots()
